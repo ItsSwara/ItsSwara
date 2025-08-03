@@ -53,6 +53,4 @@ Currently pursuing my undergrad in AI and Data Science.
 
 <br clear="both">
 
-<img src="https://github.com/ItsSwara/ItsSwara/blob/main/snake.yml" alt="Snake animation" />
-
 ###
